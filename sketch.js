@@ -5,11 +5,6 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 const Constraint=Matter.Constraint;
 
-function preload()
-{
-	
-}
-
 function setup() {
 	createCanvas(800, 700);
 
